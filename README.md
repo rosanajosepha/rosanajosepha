@@ -6,7 +6,7 @@
 
 Hi! I'm Rosana, a creative programmer, artist, and full-stack engineer excited about games and inclusivity.
 
-Currently researching accessible design in games through the CAHSI LREU program, where I’m analyzing existing accessibility features and designing a game prototype that incorporates inclusive UI/UX principles from the ground up.
+I'm currently researching accessible design in games through the CAHSI LREU program, where I’m analyzing existing accessibility features and designing a game prototype that incorporates inclusive UI/UX principles from the ground up.
 
 ☕️ **Interests:** coffee, pin-collecting, doodling, Nintendo
 
