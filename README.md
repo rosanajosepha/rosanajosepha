@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi! I'm Rosana, a programmer, artist, and full-stack engineer excited about games and inclusivity.
+Hi! I'm Rosana, a creative programmer, artist, and full-stack engineer excited about games and inclusivity.
 
 Currently researching accessible design in games through the CAHSI LREU program, where I’m analyzing existing accessibility features and designing a game prototype that incorporates inclusive UI/UX principles from the ground up.
 
@@ -27,7 +27,7 @@ Currently researching accessible design in games through the CAHSI LREU program,
 
 ## Previous Projects
 
-🏋 *Fitness Web App* - Fitness Social Media page with features ranging from post-creation to workout data visualization (GCP, Python, Data Warehouses, SQL).
+🏋 *Fitness Web App* - [Fitness Social Media](https://my-ai-shoe-starter-86677331641.us-central1.run.app/) page with features ranging from post-creation to workout data visualization (GCP, Python, Data Warehouses, SQL).
 
 🎮 *Jurassic Word* – Chrome web browser-inspired Dino typing game with custom visuals and music (JavaScript).
 
