@@ -1,1 +1,34 @@
+# Rosana Josepha
 
+💼 [LinkedIn](https://www.linkedin.com/in/rosana-josepha/)
+
+## About Me
+
+Hi! I'm Rosana, a programmer, artist, and full-stack engineer excited about games and inclusivity.
+
+Currently researching accessible design in games through the CAHSI LREU program, where I’m analyzing existing accessibility features and designing a game prototype that incorporates inclusive UI/UX principles from the ground up.
+
+☕️ **Interests:** coffee, pin-collecting, doodling, Nintendo
+
+⚡️ **Right Now I'm Learning:** Web Development · APIs · Solo Game Dev
+
+## Experience
+
+- **INIT FIU** - 2D Animator - Miami, Florida (Feb 2025 - Apr 2025)  
+  - Contributed to game design and character animation for [*Sewer Wars*](https://raaee.itch.io/sewer-wars), a 2D team project presented at INIT Demo Day.  
+  - Skills: Procreate, 2D Animation, Game Design, Agile Development
+
+- **CAHSI LREU** - Undergraduate Researcher (Feb 2025 - Present)
+  - Designing and developing *Hot Shot Café*, a top-down shooter with built-in accessibility features for visually and hearing-impaired gamers.  
+  - Skills: Unity (C#), Accessibility Research, Inclusive Game Design, UI/UX, Solo Game Development
+
+- **FIU** - Teaching Assistant, Object-Oriented Programming & Systems Programming (Aug 2024 - Apr 2025)  
+  - Supported students learning object-oriented design principles in Java / systems programming in C, led review sessions, and graded assignments with a focus on mentorship and growth.
+
+## Previous Projects
+
+🏋 *Fitness Web App* - Fitness Social Media page with features ranging from post-creation to workout data visualization (GCP, Python, Data Warehouses, SQL).
+
+🎮 *Jurassic Word* – Chrome web browser-inspired Dino typing game with custom visuals and music (JavaScript).
+
+Let’s connect and build something great together!
