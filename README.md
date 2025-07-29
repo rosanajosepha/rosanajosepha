@@ -4,14 +4,13 @@
 
 ## About Me
 
-Hi! I'm Rosana, a creative programmer, artist, and full-stack engineer excited about games and inclusivity.
+Hi! I'm Rosana, a software devloper and artist. 
 
-I'm currently researching accessible design in games through the CAHSI LREU program, where I’m analyzing existing accessibility features and designing a game prototype that incorporates inclusive UI/UX principles from the ground up.
+I'm currently building my portfolio, exploring game and app ideas surrounding food! Because who doesn't like food??
 
 ☕️ **Interests:** coffee, pin-collecting, doodling, Nintendo
 
-⚡️ **Right Now I'm Learning:** Web Development · APIs · Solo Game Dev
-
+⚡️ **Right Now I'm Learning:** Solo Game Dev · UI/UX · Game Design
 ## Experience
 
 - **INIT FIU** - 2D Animator - Miami, Florida (Feb 2025 - Apr 2025)  
@@ -31,4 +30,4 @@ I'm currently researching accessible design in games through the CAHSI LREU prog
 
 🎮 *Jurassic Word* – Chrome web browser-inspired Dino typing game with custom visuals and music (JavaScript).
 
-Let’s connect and build something great together!
+Thanks for stopping by!
