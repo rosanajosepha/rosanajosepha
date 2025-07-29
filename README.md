@@ -4,13 +4,13 @@
 
 ## About Me
 
-Hi! I'm Rosana, a software devloper and artist. 
+Hi! I'm Rosana, a software devloper, artist, and barista. 
 
 I'm currently building my portfolio, exploring game and app ideas surrounding food! Because who doesn't like food??
 
 ☕️ **Interests:** coffee, pin-collecting, doodling, Nintendo
 
-⚡️ **Right Now I'm Learning:** Solo Game Dev · UI/UX · Game Design
+⚡️ **Right Now I'm Learning:** Solo Game Dev · UI/UX · Latte Art
 ## Experience
 
 - **INIT FIU** - 2D Animator - Miami, Florida (Feb 2025 - Apr 2025)  
