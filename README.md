@@ -6,7 +6,6 @@
 
 Hi! I'm Rosana, a software devloper, artist, and barista. 
 
-I'm currently building my portfolio, exploring game and app ideas surrounding food! Because who doesn't like food??
 
 ☕️ **Interests:** coffee, pin-collecting, doodling, Nintendo
 
