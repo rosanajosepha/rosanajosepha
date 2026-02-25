@@ -4,30 +4,33 @@
 
 ## About Me
 
-Hi! I'm Rosana, a software devloper, artist, and barista. 
+Hi! I'm Rosana, a software developer, artist, and barista. 
 
 
-☕️ **Interests:** coffee, pin-collecting, doodling, Nintendo
+☕️ **Interests:** tech, pin-collecting, food
 
-⚡️ **Right Now I'm Learning:** Solo Game Dev · UI/UX · Latte Art
+👾 **Now Playing:** LOZ: Breath of the Wild, Celeste
 
-👾 **Favorite Game:** Mario Odyssey
+## Experience & Projects
 
-## Experience
+- **Mars to the Stars** - Level Designer & Programmer (Feb 2026 - Present)  
+  - Designing levels with increasing difficulty and complexity for a 2D Game Team at INIT FIU
+  - Program in-game environments contributing to gameplay and game mechanics
+  - Tools: Unity, C#
 
 - **Geek Squad** – Consultation Agent - Miami, FL (Jun 2025 - Present)
-  - Applied expertise in computers, hardware, and operating systems to deliver high-quality technical support
-  - Resolved hardware and software issues for 30+ customers daily
+  - Applying expertise in computers, hardware, and operating systems to deliver high-quality technical support
+  - Investigating and resolving hardware and software issues for laptops, PCs, tablets, and mobile devices
 
-- **INIT FIU** - 2D Animator - Miami, FL (Feb 2025 - Apr 2025)  
-  - Contributed to game design and character animation for [*Sewer Wars*](https://raaee.itch.io/sewer-wars), a 2D team project presented at INIT Demo Day.  
+- **Sewer Wars** - 2D Animator (Feb 2025 - Apr 2025)  
+  - Contributed to game design and character animation for [*Sewer Wars*](https://raaee.itch.io/sewer-wars), developed with a 2D Game Team at INIT FIU
   - Skills: Procreate, 2D Animation, Game Design, Agile Development
 
 - **Computing Alliance of Hispanic-Serving Institutions** - Undergraduate Researcher – Remote (Feb 2025 - May 2025)
   - Designing and developing *Hot Shot Café*, a top-down shooter with built-in accessibility features for visually and hearing-impaired gamers.  
   - Skills: Unity (C#), Accessibility Research, Inclusive Game Design, UI/UX, Solo Game Development
 
-- **FIU** - Teaching Assistant, Object-Oriented Programming & Systems Programming – Miami, FL (Aug 2024 - Apr 2025)  
+- **FIU** - Teaching Assistant - Object-Oriented Programming & Systems Programming – Miami, FL (Aug 2024 - Apr 2025)  
   - Supported students learning object-oriented design principles in Java / systems programming in C, led review sessions, and graded assignments with a focus on mentorship and growth.
 
 ## Previous Projects
