@@ -13,7 +13,7 @@ Hi! I'm Rosana, a software developer, artist, and barista.
 
 ## Experience & Projects
 
-- **Mars to the Stars** - Level Designer & Programmer (Feb 2026 - Present)  
+- **Project Expendable** - Level Designer & Programmer (Feb 2026 - Present)  
   - Designing levels with increasing difficulty and complexity for a 2D Game Team at INIT FIU
   - Program in-game environments contributing to gameplay and game mechanics
   - Tools: Unity, C#
