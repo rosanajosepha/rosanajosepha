@@ -9,16 +9,16 @@ Hi! I'm Rosana, a software developer, artist, and barista.
 
 ☕️ **Interests:** tech, pin-collecting, food
 
-👾 **Now Playing:** LOZ: Breath of the Wild, Celeste
+👾 **Now Playing:** Forza Horizon 6
 
 ## Experience & Projects
 
-- **Project Expendable** - Level Designer & Programmer (Feb 2026 - Present)  
+- **Project Expendable** - Level Designer & Programmer (Feb 2026 - Jul 2026)  
   - Designing levels with increasing difficulty and complexity for a 2D Game Team at INIT FIU
   - Program in-game environments contributing to gameplay and game mechanics
   - Tools: Unity, C#
 
-- **Geek Squad** – Consultation Agent - Miami, FL (Jun 2025 - Present)
+- **Geek Squad** – Consultation Agent - Miami, FL (Jun 2025 - Jul 2026)
   - Applying expertise in computers, hardware, and operating systems to deliver high-quality technical support
   - Investigating and resolving hardware and software issues for laptops, PCs, tablets, and mobile devices
 
@@ -26,12 +26,8 @@ Hi! I'm Rosana, a software developer, artist, and barista.
   - Contributed to game design and character animation for [*Sewer Wars*](https://raaee.itch.io/sewer-wars), developed with a 2D Game Team at INIT FIU
   - Skills: Procreate, 2D Animation, Game Design, Agile Development
 
-- **Computing Alliance of Hispanic-Serving Institutions** - Undergraduate Researcher – Remote (Feb 2025 - May 2025)
-  - Designing and developing *Hot Shot Café*, a top-down shooter with built-in accessibility features for visually and hearing-impaired gamers.  
-  - Skills: Unity (C#), Accessibility Research, Inclusive Game Design, UI/UX, Solo Game Development
-
 - **FIU** - Teaching Assistant - Object-Oriented Programming & Systems Programming – Miami, FL (Aug 2024 - Apr 2025)  
-  - Supported students learning object-oriented design principles in Java / systems programming in C, led review sessions, and graded assignments with a focus on mentorship and growth.
+  - Supported students learning object-oriented design & systems programming, led review sessions, and graded assignments with a focus on mentorship and growth.
 
 ## Previous Projects
 
