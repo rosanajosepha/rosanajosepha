@@ -4,14 +4,13 @@
 
 ## About Me
 
-Hi! I'm Rosana, a software developer, artist, and barista. 
+Hi! I'm Rosana, and welcome to my GitHub page! ^^
 
 
 👾 **Now Playing:** Forza Horizon 6
 
 ## Experience & Projects
 
-- **Crema Gourmet** - Barista (May 2026 - Present) ☕️
 
 - **Project Expendable** - Level Designer & Programmer (Feb 2026 - Jul 2026)  
   - Designed levels with increasing difficulty and complexity for a 2D Game Team at INIT FIU
